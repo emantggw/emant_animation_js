@@ -1,6 +1,6 @@
 # Emant Brust - Text Animation, Hobby Project
 
-  <img src="https://github.com/emantggw/emant_animation_js/raw/main/assets/screenshots/mainscreen.png" width="300" />
+  <img src="https://github.com/emantggw/emant_animation_js/raw/main/assets/screenshots/mainscreen.png" />
 
 ### Project created at:
 
