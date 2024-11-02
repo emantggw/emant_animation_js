@@ -1,4 +1,4 @@
-# Emant Effect - Text Animation, Hobby Project
+# Emant Effect - Text Animation
 
   <img src="https://github.com/emantggw/emant_animation_js/raw/main/assets/screenshots/screenshot.gif" />
 
